@@ -1,52 +1,44 @@
 # ML-Data-Journey
-Hands-on notebooks covering NumPy, Pandas, Matplotlib, and Machine Learning basics. Topics include array operations, data cleaning, visualization, and ML algorithms. Python | Jupyter | scikit-learn.
-# 01 — NumPy Fundamentals
 
-**Date:** May 2026  
-**Topics:** Array creation, dtype, speed & memory comparison, built-in functions, array properties
+A personal learning repository documenting my journey in Data Science, Machine Learning, and Data Analysis.
 
----
+## Topics Covered
 
-## What This Covers
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Data Visualization
+* Statistics
+* Machine Learning
+* Advanced Excel
 
-| Concept | Description |
-|---|---|
-| Speed comparison | Python list vs NumPy array using `time.perf_counter()` |
-| Memory comparison | `sys.getsizeof` vs `.nbytes` |
-| Array creation | `np.array`, `np.zeros`, `np.ones`, `np.full`, `np.eye` |
-| Range functions | `np.arange` vs `np.linspace` — key differences |
-| Array properties | `.shape`, `.size`, `.ndim`, `.dtype` |
-| dtype & upcasting | What happens when you mix types in an array |
+## Purpose
 
----
+This repository contains practice code, notes, exercises, and mini-projects completed while learning AI/ML and Data Analysis.
 
-## Key Insight
+The goal is to build a strong foundation in data handling, visualization, machine learning, and problem-solving through consistent practice.
 
-NumPy arrays are stored in **contiguous memory** with **fixed dtypes**, making them:
-- ~10–100× faster than Python lists for numerical operations
-- ~8× more memory-efficient per element
+## Tools & Technologies
 
-This is why NumPy is the foundation of pandas, scikit-learn, TensorFlow, and PyTorch.
+* Python
+* Jupyter Notebook
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* Excel
+* Git & GitHub
 
-### 03 - Copy vs View and Axes
+## Learning Approach
 
-Topics Covered:
-- Python List Slicing
-- NumPy View
-- NumPy Copy
-- 2D Arrays
-- Axis=0 vs Axis=1
-- Multi-dimensional Slicing
----
+* Learn concepts
+* Practice with code
+* Document key insights
+* Upload progress regularly
+* Build projects from acquired skills
 
-## How to Run
+## Author
 
-```bash
-jupyter notebook numpy_basics.ipynb
-```
-
-Or open directly in JupyterLab.
-
----
-
-
+Anuja Kharat
+B.Sc. Computer Science (Data Science & AI)
