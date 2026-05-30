@@ -28,6 +28,15 @@ NumPy arrays are stored in **contiguous memory** with **fixed dtypes**, making t
 
 This is why NumPy is the foundation of pandas, scikit-learn, TensorFlow, and PyTorch.
 
+### 03 - Copy vs View and Axes
+
+Topics Covered:
+- Python List Slicing
+- NumPy View
+- NumPy Copy
+- 2D Arrays
+- Axis=0 vs Axis=1
+- Multi-dimensional Slicing
 ---
 
 ## How to Run
