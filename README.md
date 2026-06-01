@@ -9,14 +9,14 @@ Data Science, Machine Learning, and Data Analysis.
 
 ## Progress Tracker
 
-| # | Topic | Status | Notebook |
-|---|-------|--------|----------|
-| 01 | NumPy | ✅ Complete | [View](./01_NumPy/) |
-| 02 | Pandas | 🔄 In Progress | [View](./02_Pandas/) |
-| 03 | Matplotlib | 📅 Planned | - |
-| 04 | Statistics | 📅 Planned | - |
-| 05 | ML Algorithms | 📅 Planned | - |
-| 06 | Projects | 📅 Planned | - |
+| # | Topic | Status | 
+|---|-------|--------|
+| 01 | NumPy | ✅ Complete | 
+| 02 | Pandas | 🔄 In Progress | 
+| 03 | Matplotlib | 📅 Planned |
+| 04 | Statistics | 📅 Planned | 
+| 05 | ML Algorithms | 📅 Planned |
+| 06 | Projects | 📅 Planned |
 
 ## Author
 **Anuja Kharat** — B.Sc. Computer Science (Data Science & AI)  
