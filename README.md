@@ -2,43 +2,22 @@
 
 A personal learning repository documenting my journey in Data Science, Machine Learning, and Data Analysis.
 
-## Topics Covered
+# ML-Data-Journey
 
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Data Visualization
-* Statistics
-* Machine Learning
-* Advanced Excel
+A hands-on learning repository documenting my journey in 
+Data Science, Machine Learning, and Data Analysis.
 
-## Purpose
+## Progress Tracker
 
-This repository contains practice code, notes, exercises, and mini-projects completed while learning AI/ML and Data Analysis.
-
-The goal is to build a strong foundation in data handling, visualization, machine learning, and problem-solving through consistent practice.
-
-## Tools & Technologies
-
-* Python
-* Jupyter Notebook
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* Excel
-* Git & GitHub
-
-## Learning Approach
-
-* Learn concepts
-* Practice with code
-* Document key insights
-* Upload progress regularly
-* Build projects from acquired skills
+| # | Topic | Status | Notebook |
+|---|-------|--------|----------|
+| 01 | NumPy | ✅ Complete | [View](./01_NumPy/) |
+| 02 | Pandas | 🔄 In Progress | [View](./02_Pandas/) |
+| 03 | Matplotlib | 📅 Planned | - |
+| 04 | Statistics | 📅 Planned | - |
+| 05 | ML Algorithms | 📅 Planned | - |
+| 06 | Projects | 📅 Planned | - |
 
 ## Author
-
-Anuja Kharat
-B.Sc. Computer Science (Data Science & AI)
+**Anuja Kharat** — B.Sc. Computer Science (Data Science & AI)  
+📧 [anujakharat73@gmail.com] | 🔗 https://www.linkedin.com/in/anuja-kharat/
